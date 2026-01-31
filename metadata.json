@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Load Profiler",
+  "description": "A neuro-inclusive design tool that analyzes educational text to identify and rectify structural barriers for learners with ADHD, Dyslexia, Autism, and Anxiety.",
+  "requestFramePermissions": []
+}
